@@ -10,7 +10,7 @@ When your Luck is zero, you may not lower it further.
 
 **After you have chosen Lucky Devil, the following Advanced and Master Moves become available to any character.**
 ### Curiosity
-When you put yourself at risk to check something out, ask the GM any one question related to the risks and roll +Luck. On a 10+, the GM will answer it, as clearly as the circumstances allow. On a 7-9, the GM will tell you what more you need to do to find the answer yourself. 
+When you put yourself at risk to check something out, ask the GM any one question related to the risks and roll +Luck. **On a 10+**, the GM will answer it, as clearly as the circumstances allow; **on a 7-9**, the GM will tell you what more you need to do to find the answer yourself. 
 ### A Fool and their Money
 When you pay too much for something, the GM will tell you something useful and interesting about the item you bought, and you take +1 forward when using it—even though you were swindled. 
 ### Lucky for You!
