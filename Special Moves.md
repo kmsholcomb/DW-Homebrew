@@ -1,6 +1,4 @@
 ## Special Moves
-#Ironlands Campaign Homebrew 1.2#
-#Dungeon World/Moves#
 ### Advantage & Disadvantage
 When you **make a roll with:**
 
@@ -73,4 +71,3 @@ If it’s **something special**, beyond what’s usually available here, or non-
 ### Struggle as One
 When **the GM calls on you to Defy Danger as a group**, the GM will describe the challenge(s) you face. Say how you do your part and each roll +STAT (per Defy Danger). **On a 6-**, you find yourself in a spot, the GM will describe it or ask you to; **on a 7-9**, you pull your weight; **on a 10+**, you do well enough to get someone else out of a spot, if you can tell us how.
 If you roll a 6- but someone saves you, don’t mark XP.
-
