@@ -20,7 +20,7 @@ When **the stakes are high, danger looms, and you act anyway**, roll…
 * +STR to power through or test your might.
 * +DEX to employ speed, agility, or finesses.
 * +CON to endure or hold steady.
-* +INT to apply expertise or enact a clever plan.
+* +INT to apply quick wit, expertise, or enact a clever plan.
 * +WIS to exert willpower or rely on your senses.
 * +CHA to charm, bluff, impress, or fit in.
 
