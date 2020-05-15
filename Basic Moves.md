@@ -42,10 +42,10 @@ If **the answer isn’t obvious**, roll +WIS.**On a 7+**, the GM will answer hon
 ### Hack & Slash
 When you **fight in melee or close quarters**, roll +STR. **On a 10+**, your maneuver works as expected (deal your damage) and choose 1 from the following list:
 
-* Evade, prevent, or counter the enemy’s attack.
-* Roll damage with *Advantage*, then add +1d6 extra, but suffer the enemy’s attack.
+* Evade, prevent, or counter the enemy’s reprisal.
+* Roll damage with *Advantage*, then add +1d6 extra, but suffer the enemy’s reprisal.
 
-**On a 7-9**, your maneuver works, mostly (deal your damage) but suffer the enemy’s attack.
+**On a 7-9**, your maneuver mostly works (deal your damage), but suffer the enemy’s reprisal.
 
 **Notes**:
 
@@ -57,23 +57,23 @@ When you try **to foil another PC’s action and neither of you back down**, rol
 * +STR to power through or test your might.
 * +DEX to employ speed, agility, or finesses.
 * +CON to endure or hold steady.
-* +INT to apply expertise or enact a clever plan.
+* +INT to apply quick wit, expertise, or enact a clever plan.
 * +WIS to exert willpower or rely on your senses.
 * +CHA to charm, bluff, impress, or fit in.
 
-**On a 10+**, they choose 1 from the following list; **on a 7-9**, they choose 1 but you are left off balance, exposed, or otherwise vulnerable. 
+**On a 10+**, they choose 1 from the following list; **on a 7-9**, they choose 1, but you are left off balance, exposed, or otherwise vulnerable. 
 
 * Do it anyway, but with *Disadvantage* on their (next) roll.
 * Relent, change course, or otherwise allow their move to be foiled.
 ### Parley
-When you **press or entice an NPC**, say what you want them to do (or not do). If they have reason to resist, roll +CHA.**On a 10+**,they either do as you want or reveal the easiest way to convince them; **on a 7-9**, they reveal something you can do to convince them, though it’ll likely be costly, tricky, or distasteful.
+When you **press or entice an NPC**, say what you want them to do (or not do). If they have reason to resist, roll +CHA. **On a 10+**,they either do as you want or reveal the easiest way to convince them; **on a 7-9**, they reveal something you can do to convince them, though it’ll likely be costly, tricky, or distasteful.
 
-When you **press or entice a PC and they resist**, you can roll +CHA.**On a 10+**,choose 2 from the following list; **on a 7-9**, choose 1:
+When you **press or entice a PC and they resist**, you can roll +CHA. **On a 10+**,choose 2 from the following list; **on a 7-9**, choose 1:
 
 * They mark XP if they do what you want 
 * They must do what you want, or reveal how you could convince them to do so.
 ### Spout Lore
-When you **consult your accumulated knowledge about something**, roll +INT. **On a 10+**,the GM will tell you something interesting, useful, and relevant about the subject; **on a 7-9**, the GM will only tell you some- thing interesting—it’s on you to make it useful. 
+When you **consult your accumulated knowledge about something**, roll +INT. **On a 10+**,the GM will tell you something interesting, useful, and relevant about the subject; **on a 7-9**, the GM will only tell you something interesting—it’s on you to make it useful. 
 ### Volley
 When you **launch a ranged attack**, roll +DEX. **On a 10+**,you have a clear shot—deal your damage; **on a 7-9**, deal your damage, but choose 1 from the following list:
 
