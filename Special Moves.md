@@ -7,9 +7,9 @@ When you **make a roll with:**
 ### Bolster
 When you **spend your leisure time in study, meditation, or hard practice**, you hold *Preparation*. If you study, meditate, or practice for:
 
-* One week, take 1 *Preparation*.
-* Two to three weeks, take 2 *Preparation*.
-* One or more months, take 3 *Preparation*. 
+* One week, hold 1 *Preparation*.
+* Two to three weeks, hold 2 *Preparation*.
+* One or more months, hold 3 *Preparation*. 
 
 Afterwards, you may spend *Preparation* 1-for-1 to gain *Advantage* on a single roll.
 ### Carouse 
@@ -22,8 +22,8 @@ When you **return triumphant and celebrate**, spend 100 coins and roll +1 for ev
 ### Encumbrance
 When you **make a move while carrying weight**, you may be encumbered. If your weight carried is:
 
-* Equal to or less than your Load, you suffer no penalty
-* Less than or equal to your Load +2, you have *Disadvantage* going forward until you lighten your burden
+* Equal to or less than your Load, you suffer no penalty.
+* Less than or equal to your Load +2, you have *Disadvantage*.
 * Greater than your Load +2, you have a choice: drop at least 1 weight and roll with *Disadvantage*, or automatically miss the roll.
 ### End of Session
 When you **reach the end of a session**, choose one of your bonds that you feel is resolved (completely explored, no longer relevant, or otherwise). Ask the player of the character you have the bond with if they agree. If they do, mark XP and write a new bond with whomever you wish.
@@ -45,13 +45,13 @@ When you **make camp and have XP equal to or greater than your current level +7*
 * If you are the wizard, you also get to add a new spell to your spell book.
 * Choose one of your stats and increase it by 1 to a maximum of 18 (this increase may change your modifier).
 ### Outstanding Warrants
-When you **return to a civilized place in which you’ve caused trouble before**, roll +CHA. **On a 10+**, word has spread of your deeds and everyone recognizes you. **On a 7–9**, as above, and choose 1 from the following list:
+When you **return to a civilized place in which you’ve caused trouble before**, roll +CHA. **On a 10+**, word has spread of your deeds and everyone recognizes you; **on a 7–9**, as above, and choose 1 from the following list:
 
 * The local constabulary has a warrant out for your arrest.
 * Someone has put a price on your head.
 * Someone important to you has been put in a bad spot as a result of your actions.
 ### Reconnoiter
-When you **go off to scout out a dangerous area**, say how you do it and roll+ STAT (per Defy Danger). **On a 7+**, you make it back safely and the GM describes what you found.
+When you **go off to scout out a dangerous area**, say how you do it and roll +STAT (per Defy Danger). **On a 7+**, you make it back safely and the GM describes what you found.
 
 Also, **on a 10+**, pick 2 from the following list; **on a 7-9**, pick 1:
 
@@ -69,5 +69,5 @@ When you **go to buy something with coin on hand**, if it’s something readily 
 
 If it’s **something special**, beyond what’s usually available here, or non-mundane,  roll +CHA. **On a 10+**, you find what you’re looking for at a fair price; **on a 7–9**, you’ll have to pay more or settle for something that’s not exactly what you wanted, but close.
 ### Struggle as One
-When **the GM calls on you to Defy Danger as a group**, the GM will describe the challenge(s) you face. Say how you do your part and each roll +STAT (per Defy Danger). **On a 6-**, you find yourself in a spot, the GM will describe it or ask you to; **on a 7-9**, you pull your weight; **on a 10+**, you do well enough to get someone else out of a spot, if you can tell us how.
+When **the GM calls on you to Defy Danger as a group**, the GM will describe the challenge(s) you face. Say how you do your part and each roll +STAT (per Defy Danger). **On a 6-**, you find yourself in a spot, the GM will describe it or ask you to; **on a 7-9**, you pull your weight; **on a 10+**, you do well enough to get someone out of a spot who has missed their roll, if you can tell us how.
 If you roll a 6- but someone saves you, don’t mark XP.
