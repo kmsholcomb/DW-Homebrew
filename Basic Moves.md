@@ -1,6 +1,4 @@
 ## Basic Moves
-#Ironlands Campaign Homebrew 1.2#
-#Dungeon World/Moves#
 ### Aid
 When you **help another PC who has not yet rolled**, either they can accomplish more than they could have alone or you grant them *Advantage* on their roll.
 
