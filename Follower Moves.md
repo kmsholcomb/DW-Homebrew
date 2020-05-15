@@ -1,5 +1,4 @@
 ## Follower Moves
-#Dungeon World/Moves#
 ### Do Your Thing
 When a **follower acts on your behest**, they can make any of the basic, or travel moves. They potentially gain *Advantage* or *Disadvantage* normally, and might (at the GM’s discretion) get to roll Last Breath if incapacitated. 
 
