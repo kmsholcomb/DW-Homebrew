@@ -6,7 +6,7 @@ When you **help another PC who has not yet rolled**, either they can accomplish 
 
 By aiding, you are exposed to any risk, cost, or consequence associated with their roll. 
 ### Defend
-When you **take up a defensive stance or jump in to protect others**, roll +CON.**On a 10+**, hold 3 *Readiness*; **on a 7-9**, hold 1 *Readiness*. You can spend *Readiness* 1-for-1 to:
+When you **take up a defensive stance or jump in to protect others**, roll +CON. **On a 10+**, hold 3 *Readiness*; **on a 7-9**, hold 1 *Readiness*. You can spend *Readiness* 1-for-1 to:
 
 * Suffer an attack’s damage/effects instead of your ward.
 * Halve an attack’s damage/effects.
