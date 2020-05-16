@@ -24,7 +24,7 @@ When **the stakes are high, danger looms, and you act anyway**, roll…
 
 **On a 10+**, you pull it off as well as one could hope; **on a 7-9**, you can do it, but the GM will present a lesser success, a cost, or a consequence (and maybe a choice between them, or a chance to back down.)
 ### Discern Realities
-When you **closely study a situation or person**, you can ask the GM 1 of the following:
+When you **closely study a situation or person**, you can ask the GM 1 of the following questions:
 
 * What happened here recently?
 * What is about to happen?
