@@ -64,17 +64,17 @@ When you try **to foil another PC’s action and neither of you back down**, rol
 * Do it anyway, but with *Disadvantage* on their next roll.
 * Relent, change course, or otherwise allow their move to be foiled.
 ### Parley
-When you **press or entice an NPC**, say what you want them to do (or not do). If they have reason to resist, roll +CHA. **On a 10+**,they either do as you want or reveal the easiest way to convince them; **on a 7-9**, they reveal something you can do to convince them, though it’ll likely be costly, tricky, or distasteful.
+When you **press or entice an NPC**, say what you want them to do (or not do). If they have reason to resist, roll +CHA. **On a 10+**, they either do as you want or reveal the easiest way to convince them; **on a 7-9**, they reveal something you can do to convince them, though it’ll likely be costly, tricky, or distasteful.
 
 When you **press or entice a PC and they resist**, you can roll +CHA. **On a 10+**,choose 2 from the following list; **on a 7-9**, choose 1:
 
 * They mark XP if they do what you want 
 * They must do what you want, or reveal how you could convince them to do so.
 ### Spout Lore
-When you **consult your accumulated knowledge about something**, roll +INT. **On a 10+**,the GM will tell you something interesting, useful, and relevant about the subject; **on a 7-9**, the GM will only tell you something interesting—it’s on you to make it useful. 
+When you **consult your accumulated knowledge about something**, roll +INT. **On a 10+**, the GM will tell you something interesting, useful, and relevant about the subject; **on a 7-9**, the GM will only tell you something interesting—it’s on you to make it useful. 
 ### Volley
-When you **launch a ranged attack**, roll +DEX. **On a 10+**,you have a clear shot—deal your damage; **on a 7-9**, deal your damage, but choose 1 from the following list:
+When you **launch a ranged attack**, roll +DEX. **On a 10+**, you have a clear shot—deal your damage; **on a 7-9**, deal your damage, but choose 1 from the following list:
 
 * You have to move or hold steady to get the shot, placing you in danger as described by the GM.
-* Take what you can get; you have *Disadvantage* on your damage roll.
+* Youo have *Disadvantage* on your damage roll.
 * Deplete 1 ammo.
