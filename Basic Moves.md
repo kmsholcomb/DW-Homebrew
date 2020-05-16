@@ -11,7 +11,7 @@ When you **take up a defensive stance or jump in to protect others**, roll +CON.
 * Draw all attention from your ward to yourself.
 * Strike back at an attacker (deal damage, with *Disadvantage*).
 
-When you **go on the offense, cease to focus on defense, or the danger passes**, lose any *Readiness* that you hold.
+When you **go on the offense, cease to focus on defense, or the danger passes**, lose any remaining *Readiness* that you hold.
 ### Defy Danger
 When **the stakes are high, danger looms, and you act anyway**, roll…
 
