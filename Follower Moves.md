@@ -24,4 +24,4 @@ If the GM says you can’t find that hereabouts, start over, or move on. Otherwi
 - They demand greater compensation, in coin or some other form.
 - No one here fits the bill, but you hear of someone elsewhere who does.
 - They have a need that must be met first (permission, a favor, etc.).
-- You can tell at a glance they are less than ideal (ask the GM how).
+- They are less than ideal (ask the GM how).
