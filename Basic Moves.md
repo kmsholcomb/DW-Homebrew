@@ -22,7 +22,7 @@ When **the stakes are high, danger looms, and you act anyway**, roll…
 * +WIS to exert willpower or rely on your senses.
 * +CHA to charm, bluff, impress, or fit in.
 
-**On a 10+**, you pull it off as as one could hope; **on a 7-9**, you can do it, but the GM will present a lesser success, a cost, or a consequence (and maybe a choice between them, or a chance to back down.)
+**On a 10+**, you pull it off as well as one could hope; **on a 7-9**, you can do it, but the GM will present a lesser success, a cost, or a consequence (and maybe a choice between them, or a chance to back down.)
 ### Discern Realities
 When you **closely study a situation or person**, you can ask the GM 1 of the following:
 
