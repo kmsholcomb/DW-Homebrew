@@ -40,7 +40,7 @@ If **the answer isn’t obvious**, roll +WIS.**On a 7+**, the GM will answer hon
 ### Hack & Slash
 When you **fight in melee or close quarters**, roll +STR. **On a 10+**, your maneuver works as expected (deal your damage) and choose 1 from the following list:
 
-* Evade, prevent, or counter the enemy’s reprisal.
+* Evade, prevent, or otherwise counter the enemy’s reprisal.
 * Roll damage with *Advantage*, then add +1d6 extra, but suffer the enemy’s reprisal.
 
 **On a 7-9**, your maneuver mostly works (deal your damage), but suffer the enemy’s reprisal.
@@ -61,7 +61,7 @@ When you try **to foil another PC’s action and neither of you back down**, rol
 
 **On a 10+**, they choose 1 from the following list; **on a 7-9**, they choose 1, but you are left off balance, exposed, or otherwise vulnerable. 
 
-* Do it anyway, but with *Disadvantage* on their (next) roll.
+* Do it anyway, but with *Disadvantage* on their next roll.
 * Relent, change course, or otherwise allow their move to be foiled.
 ### Parley
 When you **press or entice an NPC**, say what you want them to do (or not do). If they have reason to resist, roll +CHA. **On a 10+**,they either do as you want or reveal the easiest way to convince them; **on a 7-9**, they reveal something you can do to convince them, though it’ll likely be costly, tricky, or distasteful.
