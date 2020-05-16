@@ -25,14 +25,15 @@ When you **are on watch and something approaches**, roll +WIS.
 ### Undertake a Perilous Journey
 When you **travel to a location that you've been to before and the journey is dangerous**, choose one member of the party be a *scout*, one to be a *navigator*, and one to be *quartermaster*. Each character rolls +WIS. 
 
-* **On a 10+**:
-    * Scout: Spots any trouble quickly enough to let you get the drop on it.
-    * Navigator: Reduces the amount of time it takes to reach your destination (the GM will say by how much).
-    * Quartermaster: Reduces the number of rations required by one. 
-* **On a 7–9**, the role performs their job as expected:
-    * Scout: No one gets the drop on you but you don’t get the drop on them either.
-    * Navigator: The journey takes about as long as expected.
-    * Quartermaster: The normal number of rations are consumed.
+* **Scout**:
+    * **On a 10+**, you spot any trouble quickly enough to let you get the drop on it.
+    * **On a 7–9**, no one gets the drop on you but you don’t get the drop on them either.
+* **Navigator**:
+    * **On a 10+**, the amount of time it takes to reach your destination is reduced (the GM will say by how much).
+    * **On a 7–9**, the journey takes about as long as expected.
+* **Quartermaster**:
+    * **On a 10+**, the number of rations required is reduced by one.
+    * **On a 7–9**, the normal number of rations are consumed.
 
 ### Weather—Hunker Down
 When you **take shelter to wait out severe weather**, roll +0. 
