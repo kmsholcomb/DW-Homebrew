@@ -2,7 +2,7 @@
 ### Chart a Course
 When you **plot the best path through dangerous or unfamiliar territory**, roll +INT. **On a 10+**, you make good time, covering more ground ; **on a 7-9**, you make about as much progress as expected. 
 ### Forage
-When you **spend a day seeking food in the wild**, roll +WIS. **On a 10+**, acquire 1d6 rations, and choose 1 from the following list; **on a 7-9**, choose 1:
+When you **spend a day seeking food in the wild**, roll +WIS. **On a 10+**, acquire 1d4 rations, and choose 1 from the following list; **on a 7-9**, choose 1:
 
 * You discover something interesting or useful.
 * You avoid challenge, risk, and danger (*otherwise, you must deal with some.*)
@@ -12,7 +12,7 @@ When you **settle in to rest**, each member of the party consumes 1 ration.
  
 If you **get at least a few hours of sleep**, choose 1 from the following list:
 
-* Regain HP equal to ½ of your maximum.
+* Regain lost HP equal to ½ of your maximum HP.
 * Clear a debility.
 * Gain *Advantage* on your next roll.
 ### Scout Ahead
@@ -33,7 +33,7 @@ When you **travel through hostile territory** to a known location, choose one me
 
 **On a 7–9**, each role performs their job as expected: no one gets the drop on you but you don’t get the drop on them either, the journey takes about as long as expected, and the normal number of rations are consumed.
 ### Weather—Hunker Down
-When you **take shelter to wait out severe weather**, roll +nothing. **On 10+**, it doesn’t take long for things to clear up; **on 7-9**, the weather isn't going to stop any time soon—you can either Forge Ahead or Make Camp and hope things have changed by morning. 
+When you **take shelter to wait out severe weather**, roll +nothing. **On 10+**, it doesn’t take long for the weather o clear up; **on 7-9**, the weather isn't going to stop any time soon—you can either Forge Ahead or Make Camp and hope things have changed by morning. 
 ### Weather—Forge Ahead
 When you **push on despite severe weather,** roll +CON. **On a 10+**, you continue your journey without undo mishap due to the weather; **on a 7-9**, choose 1 from the following list:
 
