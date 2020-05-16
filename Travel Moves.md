@@ -23,7 +23,7 @@ When you **are on watch and something approaches**, roll +WIS.
 * **On a 7-9**, you react in time to sound the alarm, but nothing else. 
 
 ### Undertake a Perilous Journey
-When you **travel to a location that you've been to before and the journey is dangerous**, choose one member of the party one to *scout* ahead, one to act as *navigator*, and one to be *quartermaster*. Each character rolls +WIS. 
+When you **travel to a location that you've been to before and the journey is dangerous**, choose one member of the party be a *scout*, one to be a *navigator*, and one to be *quartermaster*. Each character rolls +WIS. 
 
 * **On a 10+**:
     * Scout: Spots any trouble quickly enough to let you get the drop on it.
