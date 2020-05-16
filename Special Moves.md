@@ -33,14 +33,11 @@ When you **make a move while carrying weight**, you may be encumbered as followe
 When you **reach the end of a session**, perform the following actions:
 
 * Choose one of your bonds that you feel is resolved. Ask the player of the character with whom you have the bond if they agree. If they do, mark 1 point of XP. You can then write a new bond with that character.
-
 * Look at your Alignment's *Drive*. If you fulfilled your *Drive* at least once in the session, mark 1 point of XP. 
-
 * As a group, answer the following questions:
-
- * Did we learn something new and important about the world?
- * Did we overcome a notable monster or enemy?
- * Did we loot a memorable treasure?
+    * Did we learn something new and important about the world?
+    * Did we overcome a notable monster or enemy?
+    * Did we loot a memorable treasure?
 
 For each *yes* answer, everyone marks 1 point of XP.
 
