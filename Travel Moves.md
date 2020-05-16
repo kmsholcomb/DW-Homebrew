@@ -1,42 +1,47 @@
 ## Travel Moves
-### Chart a Course
-When you **plot the best path through dangerous or unfamiliar territory**, roll +INT. **On a 10+**, you make good time, covering more ground ; **on a 7-9**, you make about as much progress as expected. 
+
 ### Forage
-When you **spend a day seeking food in the wild**, roll +WIS. **On a 10+**, acquire 1d4 rations, and choose 1 from the following list; **on a 7-9**, choose 1:
+When you **spend a day seeking food in the wild**, roll +WIS. **On a 10+**, acquire 1d4 rations, and choose one outcome from the following list. **On a 7-9**, choose one outcome.
 
 * You discover something interesting or useful.
-* You avoid challenge, risk, and danger (*otherwise, you must deal with some.*)
+* You avoid challenge, risk, and danger (*otherwise, you must deal with some*).
 * Acquire an extra 1d4 rations. 
+
 ### Make Camp
 When you **settle in to rest**, each member of the party consumes 1 ration.
  
-If you **get at least a few hours of sleep**, choose 1 from the following list:
+If you **get at least a few hours of sleep**, choose one outcome from the following list:
 
-* Regain lost HP equal to ½ of your maximum HP.
-* Clear a debility.
-* Gain *Advantage* on your next roll.
-### Scout Ahead
-When you **take point and look for anything out of the ordinary**, roll +WIS. **On a 10+**, choose 2 from the following list; **on a 7-9**, choose 1:
+* You regain lost HP equal to half of your maximum HP.
+* You heal a Debility.
+* You gain *Advantage* on your next roll.
 
-* You get the drop on whatever lies ahead.
-* You discern a beneficial aspect of the terrain—shortcut, shelter, or tactical advantage (describe it).
-* You make a Discovery (ask the GM) .
-* You see sign of a nearby Danger (ask the GM) .
 ### Take Watch
-When you **are on watch and something approaches**, roll +WIS. **On a 10+**, you notice in time to alert everyone and prepare, granting all party members *Advantage* for the encounter; **on a 7-9**, you react in time to sound the alarm, but nothing else. 
+When you **are on watch and something approaches**, roll +WIS. 
+
+* **On a 10+**, you notice in time to alert everyone and prepare, granting all party members *Advantage* for the encounter.
+* **On a 7-9**, you react in time to sound the alarm, but nothing else. 
+
 ### Undertake a Perilous Journey
-When you **travel through hostile territory** to a known location, choose one member of the party one to *scout* ahead, one to act as *trailblazer*, and one to be *quartermaster*. Each character rolls +WIS.** **On a 10+**:
+When you **travel to a location that you've been to before and the journey is dangerous**, choose one member of the party one to *scout* ahead, one to act as *navigator*, and one to be *quartermaster*. Each character rolls +WIS. 
 
-* The scout will spot any trouble quickly enough to let you get the drop on it,
-* The trailblazer reduces the amount of time it takes to reach your destination (the GM will say by how much), and
-* The quartermaster reduces the number of rations required by one. 
+* **On a 10+**:
+    * Scout: Spots any trouble quickly enough to let you get the drop on it.
+    * Navigator: Reduces the amount of time it takes to reach your destination (the GM will say by how much).
+    * Quartermaster: Reduces the number of rations required by one. 
+* **On a 7–9**, the role performs their job as expected:
+    * Scout: No one gets the drop on you but you don’t get the drop on them either.
+    * Navigator: The journey takes about as long as expected.
+    * Quartermaster: The normal number of rations are consumed.
 
-**On a 7–9**, each role performs their job as expected: no one gets the drop on you but you don’t get the drop on them either, the journey takes about as long as expected, and the normal number of rations are consumed.
 ### Weather—Hunker Down
-When you **take shelter to wait out severe weather**, roll +nothing. **On 10+**, it doesn’t take long for the weather o clear up; **on 7-9**, the weather isn't going to stop any time soon—you can either Forge Ahead or Make Camp and hope things have changed by morning. 
-### Weather—Forge Ahead
-When you **push on despite severe weather,** roll +CON. **On a 10+**, you continue your journey without undo mishap due to the weather; **on a 7-9**, choose 1 from the following list:
+When you **take shelter to wait out severe weather**, roll +0. 
 
-* You continue your journey, but overtax yourself and become *weak*, *shaky*, or *sick* (choose one).
-* You continue your journey, but the weather takes a deep toll on your gear (ask the GM how). 
-* On second thought, maybe you’re better off staying put. 
+* **On 10+**, it doesn't take long for the weather to clear up.
+* **On 7-9**, the weather isn't going to stop any time soon. You can Forge Ahead, or you can Make Camp and hope things have changed by morning. 
+
+### Weather—Forge Ahead
+When you **push on despite severe weather,** roll +CON. **On a 10+**, you continue your journey without undo mishap due to the weather. **On a 7-9**, choose one outcome from the following list:
+
+* You continue your journey but overtax yourself and become *weak*, *shaky*, or *sick* (choose one).
+* You continue your journey, but the weather takes a deep toll on your gear (ask the GM how).
